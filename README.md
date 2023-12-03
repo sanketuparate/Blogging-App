@@ -4,8 +4,6 @@
 
 ![Screenshot 2023-12-03 164346](https://github.com/sanketuparate/Blogging-App/assets/81017631/3f46fc4c-22d1-4be6-ae56-009b1ba5b9d2)
 
-![Screenshot 2023-12-03 164346](https://github.com/sanketuparate/Blogging-App/assets/81017631/dd04e754-7e00-43da-a55e-20aaf9cd2bc3)
-
 ![Screenshot 2023-12-03 165057](https://github.com/sanketuparate/Blogging-App/assets/81017631/e60ad334-f8e3-47eb-b9b8-d724ad01f52a)
 
 
