@@ -1,8 +1,4 @@
-![Screenshot 2023-12-03 164134](https://github.com/sanketuparate/Blogging-App/assets/81017631/f8ee9c4b-5978-4a5f-b47b-50c790408a1e)
 
-
-
-![Screenshot 2023-12-03 164346](https://github.com/sanketuparate/Blogging-App/assets/81017631/baa40e8a-4a06-4543-8ad8-a504302dd04b)
 
 
 
